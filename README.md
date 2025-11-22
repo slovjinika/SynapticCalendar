@@ -1,1 +1,2 @@
-# SynapticCalendar
+# Synaptic Calendar
+![2026](2026-01-01.png)
